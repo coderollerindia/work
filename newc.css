@@ -4443,3 +4443,8 @@ section.wt-hero {
         transform: translateX(-50%) !important;
     }
 }
+.wt-vimgs img.wt-vph {
+    object-fit: cover !important;
+    object-position: top center !important;
+    max-width: none !important;
+}
