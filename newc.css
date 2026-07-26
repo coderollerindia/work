@@ -1188,9 +1188,9 @@ div.wt-vbtns {
 @media(min-width:1024px) {
 .wt img {
     max-width: 100% !important;
-    height: 100% !important;
+    height: auto !important;
     /* object-fit: none !important; */
-	 max-width: 427px !important;
+	 max-width: 100% !important;
 	}
 }
 
